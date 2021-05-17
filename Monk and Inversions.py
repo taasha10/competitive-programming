@@ -1,3 +1,6 @@
+#code monk problem on hackerearth
+
+
 t=int(input())
 while t:
     n=int(input())
